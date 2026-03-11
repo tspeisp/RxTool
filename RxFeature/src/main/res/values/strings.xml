@@ -1,3 +1,4 @@
 <resources>
+    <string name="app_name">RxFeature</string>
     <string name="module_name_rxfeature">RxFeature</string>
 </resources>

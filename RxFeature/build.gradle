@@ -40,7 +40,7 @@ dependencies {
     //Zxing核心包
     implementation 'com.google.zxing:core:3.4.1'
     compileOnly project(':RxKit')
-    compileOnly project(':RxUI')
+    api project(':RxUI')
 
 
 }
